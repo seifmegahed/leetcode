@@ -8,4 +8,7 @@
 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | 98ms | 55.6MB  | TS
 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 272ms | 62.3MB  | TS
 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | 98ms | 58.8MB  | TS
+7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | 0ms | 5.3MB  | C
+8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | 0ms | 6MB  | C
+9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 16ms | 5.9MB  | C
 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 2ms | 2.6MB  | Go
